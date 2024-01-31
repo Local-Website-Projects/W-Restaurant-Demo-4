@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
-<!-- Mirrored from themewant.com/products/html/dinenos/index-three.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 23 Jan 2024 11:07:26 GMT -->
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.svg">
-    <title>Home Three - Dinenos – Fast Food & Restaurant HTML Template</title>
+    <title>Home - The Henley Southlake</title>
 
     <!-- fontawesome css -->
     <link rel="stylesheet" href="assets/css/plugins/fontawesome-5.css">
@@ -31,249 +29,7 @@
 
     <!-- header style two -->
     <!-- header area start -->
-    <header class="header-two header-three header--sticky">
-        <div class="header-top">
-            <div class="start-top">
-                <div class="single-info">
-                    <div class="icon"><i class="fa-solid fa-location-dot"></i> </div>
-                    <p>Silk St, Barbican, London EC2Y 8DS, UK</p>
-                </div>
-            </div>
-            <div class="end-top">
-                <div class="single-info">
-                    <div class="icon"><i class="fas fa-envelope-open"></i></div>
-                    <a href="mailto:name@email.com">info@example.com</a>
-                </div>
-                <div class="single-info">
-                    <div class="icon"><i class="fa-solid fa-phone-flip"></i></div>
-                    <a href="tel:99088745623">+990 887-456-23</a>
-                </div>
-            </div>
-        </div>
-        <div class="header-two-container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="header-main-wrapper">
-                        <div class="menu-area left" id="menu-btn">
-                            <a href="#" class="nav-menu-link menu-button">
-                                <span class="dot1"></span>
-                                <span class="dot2"></span>
-                                <span class="dot3"></span>
-                                <span class="dot4"></span>
-                            </a>
-                        </div>
-                        <div class="rts-header-mid">
-                            <!-- nav area start -->
-                            <div class="main-nav-desk nav-area">
-                                <nav>
-                                    <ul>
-                                        <li class="has-droupdown">
-                                            <a class="nav-link" href="#">Home</a>
-                                            <ul class="submenu">
-                                                <li><a href="index.html">HOME ONE</a></li>
-                                                <li><a href="index-two.html">HOME TWO</a></li>
-                                                <li><a href="index-three.html">HOME THREE</a></li>
-                                                <li><a href="index-four.html">BURGER HOME</a></li>
-                                                <li><a href="index-five.html">SEAFOOD HOME</a></li>
-                                                <li><a href="index-six.html">RESTAURANT HOME (DARK)</a></li>
-                                                <li><a href="index-seven.html">PIZZA HOME</a></li>
-                                                <li><a href="index-eight.html">COFFEE HOUSE</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="has-droupdown pages">
-                                            <a class="nav-link" href="#">Pages</a>
-                                            <ul class="submenu">
-                                                <li><a href="about.html">About</a></li>
-                                                <li><a href="our-chef.html">Our Chef</a></li>
-                                                <li><a href="meet-the-chef.html">Meet The Chef</a></li>
-                                                <li><a href="reservation.html">Reservation</a></li>
-                                                <li><a href="contact.html">Contact</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="has-droupdown mega">
-                                            <a class="nav-link" href="#">Menus</a>
-                                            <div class="submenu menu-home">
-                                                <ul class="container flex-mega">
-                                                    <li><a href="menu.html"><img src="assets/images/project/menu-1.webp" alt="menu"> <br> MenuTab</a></li>
-                                                    <li><a href="menu-list.html"><img src="assets/images/project/menu-2.webp" alt="menu"><br>MenuList</a></li>
-                                                    <li><a href="menu-list2.html"><img src="assets/images/project/menu-3.webp" alt="menu"><br>MenuList2</a></li>
-                                                    <li><a href="menu-section.html"><img src="assets/images/project/menu-4.webp" alt="menu"><br>MenuSection</a></li>
-                                                </ul>
-                                            </div>
-                                        </li>
-                                        <li class="has-droupdown pages">
-                                            <a class="nav-link" href="#">Shop</a>
-                                            <ul class="submenu">
-                                                <li><a href="shop.html">Shop</a></li>
-                                                <li><a href="shop-details.html">Shop Details</a></li>
-                                                <li><a href="cart.html">Cart</a></li>
-                                                <li><a href="checkout.html">Checkout</a></li>
-                                                <li><a href="account.html">My Account</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="has-droupdown pages">
-                                            <a class="nav-link" href="#">Blog</a>
-                                            <ul class="submenu">
-                                                <li><a href="blog.html">Blog</a></li>
-                                                <li><a href="blog-details.html">Blog Details</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </nav>
-                            </div>
-                            <!-- nav-area end -->
-                        </div>
-                        <div class="logo-area">
-                            <a href="index.html" class="logo">
-                                <img src="assets/images/logo/02.svg" alt="image-logo">
-                            </a>
-                        </div>
-                        <!-- header right start -->
-                        <div class="rts-header-right">
-                            <div class="button-area-banner">
-                                <a href="#" class="rts-btn btn-secondary">Find a Table</a>
-                            </div>
-                            <div class="account">
-                                <a href="#"><i class="fa-solid fa-user"></i></a>
-                            </div>
-                            <div class="menu-area right" id="menu-btn">
-                                <a href="#" class="nav-menu-link menu-button">
-                                    <span class="dot1"></span>
-                                    <span class="dot2"></span>
-                                    <span class="dot3"></span>
-                                    <span class="dot4"></span>
-                                </a>
-                            </div>
-                        </div>
-                        <!-- header right end -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-    <!-- header area end -->
-
-    <!-- side bar for desktop -->
-    <div id="side-bar" class="side-bar header-one">
-        <div class="inner">
-            <button class="close-icon-menu"><i class="far fa-times"></i></button>
-            <!-- inner menu area desktop start -->
-            <div class="inner-main-wrapper-desk d-none d-lg-block">
-                <div class="thumbnail">
-                    <img src="assets/images/logo/01.svg" alt="dinenos">
-                </div>
-                <div class="banner-shape-area">
-                    <span class="shape"></span>
-                    <span class="shape"></span>
-                    <span class="shape"></span>
-                </div>
-                <div class="inner-content">
-                    <ul class="feature-list">
-                        <li class="query-list">
-                            <span class="sub-text">18/B, New Ave 1000 New York</span>
-                            <a class="phone" href="tel:99988899900">999 888 999 00</a>
-                            <a class="email" href="mail-to_office%40webmailfree.html">office@webmailfree.com</a>
-                        </li>
-                        <li class="query-list two">
-                            <p class="time">Mon - Thu: 10 AM - 02 AM</p>
-                            <p class="time">Fri - Sun: 10 AM - 02 AM</p>
-                        </li>
-                    </ul>
-                    <div class="footer">
-                        <ul class="social-area">
-                            <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa-brands fa-behance"></i></a></li>
-                            <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
-                            <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <!-- mobile menu area start -->
-            <div class="mobile-menu d-block d-lg-none">
-                <nav class="nav-main mainmenu-nav mt--30">
-                    <ul class="mainmenu" id="mobile-menu-active">
-                        <li class="has-droupdown">
-                            <a href="#" class="main">Home</a>
-                            <ul class="submenu">
-                                <li><a class="mobile-menu-link" href="index.html">Home One</a></li>
-                                <li><a class="mobile-menu-link" href="index-two.html">Home Two</a></li>
-                                <li><a class="mobile-menu-link" href="index-three.html">Home Three</a></li>
-                                <li><a class="mobile-menu-link" href="index-four.html">Burger Home</a></li>
-                                <li><a class="mobile-menu-link" href="index-five.html">Seafood Home</a></li>
-                                <li><a class="mobile-menu-link" href="index-six.html">Restaurant Home (Dark)</a></li>
-                                <li><a class="mobile-menu-link" href="index-seven.html">Pizza Home</a></li>
-                                <li><a class="mobile-menu-link" href="index-eight.html">Coffee House</a></li>
-                            </ul>
-                        </li>
-                        <li class="has-droupdown">
-                            <a href="#" class="main">Pages</a>
-                            <ul class="submenu">
-                                <li><a class="mobile-menu-link" href="about.html">About</a></li>
-                                <li><a class="mobile-menu-link" href="our-chef.html">Our Chef</a></li>
-                                <li><a class="mobile-menu-link" href="meet-the-chef.html">Meet The Chef</a></li>
-                                <li><a class="mobile-menu-link" href="reservation.html">Reservation</a></li>
-                                <li><a class="mobile-menu-link" href="contact.html">Contact</a></li>
-                            </ul>
-                        </li>
-                        <li class="has-droupdown">
-                            <a href="#" class="main">Menus</a>
-                            <ul class="submenu">
-                                <li><a class="mobile-menu-link" href="menu.html">MenuTab</a></li>
-                                <li><a class="mobile-menu-link" href="menu-list.html">MenuList</a></li>
-                                <li><a class="mobile-menu-link" href="menu-list2.html">MenuList2</a></li>
-                                <li><a class="mobile-menu-link" href="menu-section.html">Menusection</a></li>
-                            </ul>
-                        </li>
-                        <li class="has-droupdown">
-                            <a href="#" class="main">Portfolio</a>
-                            <ul class="submenu">
-                                <li><a class="mobile-menu-link" href="shop.html">Shop</a></li>
-                                <li><a class="mobile-menu-link" href="shop-details.html">Shop Details</a></li>
-                                <li><a class="mobile-menu-link" href="cart.html">Cart</a></li>
-                                <li><a class="mobile-menu-link" href="checkout.html">Checkout</a></li>
-                                <li><a class="mobile-menu-link" href="account.html">My Account</a></li>
-                            </ul>
-                        </li>
-                        <li class="has-droupdown">
-                            <a href="#" class="main">Blog</a>
-                            <ul class="submenu">
-                                <li><a class="mobile-menu-link" href="blog.html">Blog</a></li>
-                                <li><a class="mobile-menu-link" href="blog-details.html">Blog Details</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </nav>
-
-                <div class="social-wrapper-one">
-                    <ul>
-                        <li>
-                            <a href="#">
-                                <i class="fa-brands fa-facebook-f"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fa-brands fa-twitter"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fa-brands fa-youtube"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="fa-brands fa-linkedin-in"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <!-- mobile menu area end -->
-    </div>
+    <?php include ('include/header.php');?>
     <!-- header style two End -->
 
     <!-- banner start -->
@@ -289,8 +45,8 @@
                             Delicious Foods
                         </h1>
                         <div class="button-area-banner">
-                            <a href="about.html" class="rts-btn btn-primary">View More</a>
-                            <a href="menu-list.html" class="rts-btn btn-seconday">Food Menu</a>
+                            <a href="about.php" class="rts-btn btn-primary">View More</a>
+                            <a href="menu.php" class="rts-btn btn-seconday">Food Menu</a>
                         </div>
                     </div>
                 </div>
@@ -354,44 +110,44 @@
                             </div>
                             <p class="desc" data-sal="slide-up" data-sal-duration="800">It’s the story of an everlasting love affair, Dieter Delicioz and <br> the Atlantic Ocean. Our proximity to the abundant riches of <br> the sea and Portugal’s excellent produce.</p>
                             <div class="button-area-banner" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
-                                <a href="menu-list.html" class="rts-btn btn-secondary">More Foods</a>
+                                <a href="menu.php" class="rts-btn btn-secondary">More Foods</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-12">
                         <div class="menu-wrapper-inner">
                             <div class="menu-wrapper" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <div class="menu-image"><a href="shop-details.html"><img src="assets/images/project/sm-01.jpg" alt="item"></a></div>
+                                <div class="menu-image"><a href="#"><img src="assets/images/project/sm-01.jpg" alt="item"></a></div>
                                 <div class="content">
-                                    <h4 class="p-title"><a href="shop-details.html">Chicha Morada</a></h4>
+                                    <h4 class="p-title"><a href="#">Chicha Morada</a></h4>
                                     <div class="price-tag"><a href="#">$33.00</a></div>
                                 </div>
                             </div>
                             <div class="menu-wrapper" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <div class="menu-image"><a href="shop-details.html"><img src="assets/images/project/sm-02.jpg" alt="item"></a></div>
+                                <div class="menu-image"><a href="#"><img src="assets/images/project/sm-02.jpg" alt="item"></a></div>
                                 <div class="content">
-                                    <h4 class="p-title"><a href="shop-details.html">Tommy’s Margarita</a></h4>
+                                    <h4 class="p-title"><a href="#">Tommy’s Margarita</a></h4>
                                     <div class="price-tag"><a href="#">$30.00</a></div>
                                 </div>
                             </div>
                             <div class="menu-wrapper" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <div class="menu-image"><a href="shop-details.html"><img src="assets/images/project/sm-03.jpg" alt="item"></a></div>
+                                <div class="menu-image"><a href="#"><img src="assets/images/project/sm-03.jpg" alt="item"></a></div>
                                 <div class="content">
-                                    <h4 class="p-title"><a href="shop-details.html">Prickly Pear Tonic</a></h4>
+                                    <h4 class="p-title"><a href="#">Prickly Pear Tonic</a></h4>
                                     <div class="price-tag"><a href="#">$15.00</a></div>
                                 </div>
                             </div>
                             <div class="menu-wrapper" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <div class="menu-image"><a href="shop-details.html"><img src="assets/images/project/sm-04.jpg" alt="item"></a></div>
+                                <div class="menu-image"><a href="#"><img src="assets/images/project/sm-04.jpg" alt="item"></a></div>
                                 <div class="content">
-                                    <h4 class="p-title"><a href="shop-details.html">Crispy Skin Chicken</a></h4>
+                                    <h4 class="p-title"><a href="#">Crispy Skin Chicken</a></h4>
                                     <div class="price-tag"><a href="#">$16.00</a></div>
                                 </div>
                             </div>
                             <div class="menu-wrapper" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <div class="menu-image"><a href="shop-details.html"><img src="assets/images/project/sm-05.jpg" alt="item"></a></div>
+                                <div class="menu-image"><a href="#"><img src="assets/images/project/sm-05.jpg" alt="item"></a></div>
                                 <div class="content">
-                                    <h4 class="p-title"><a href="shop-details.html">Wild Mushroom Arancini</a></h4>
+                                    <h4 class="p-title"><a href="#">Wild Mushroom Arancini</a></h4>
                                     <div class="price-tag"><a href="#">$12.00</a></div>
                                 </div>
                             </div>
@@ -426,12 +182,12 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-6">
                         <div class="portfolio-wrapper2 mb-30" data-sal="slide-up" data-sal-delay="1000" data-sal-duration="800">
-                            <a href="shop-details.html" class="image">
+                            <a href="#" class="image">
                                 <img class="img-fluid" src="assets/images/project/01.jpg" alt="Portfolio Img">
                             </a>
                             <div class="portfolio-content">
                                 <div class="content">
-                                    <p class="title"><a href="shop-details.html">Chicha Morada</a></p>
+                                    <p class="title"><a href="#">Chicha Morada</a></p>
                                     <span class="price">$33.00</span>
                                 </div>
                             </div>
@@ -439,12 +195,12 @@
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="portfolio-wrapper2 mb-30" data-sal="slide-up" data-sal-delay="1000" data-sal-duration="800">
-                            <a href="shop-details.html" class="image">
+                            <a href="#" class="image">
                                 <img class="img-fluid" src="assets/images/project/02.jpg" alt="Portfolio Img">
                             </a>
                             <div class="portfolio-content">
                                 <div class="content">
-                                    <p class="title"><a href="shop-details.html">Tommy’s Margarita</a></p>
+                                    <p class="title"><a href="#">Tommy’s Margarita</a></p>
                                     <span class="price">$33.00</span>
                                 </div>
                             </div>
@@ -452,12 +208,12 @@
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="portfolio-wrapper2 mb-30" data-sal="slide-up" data-sal-delay="1000" data-sal-duration="800">
-                            <a href="shop-details.html" class="image">
+                            <a href="#" class="image">
                                 <img class="img-fluid" src="assets/images/project/03.jpg" alt="Portfolio Img">
                             </a>
                             <div class="portfolio-content">
                                 <div class="content">
-                                    <p class="title"><a href="shop-details.html">Prickly Pear Tonic</a></p>
+                                    <p class="title"><a href="#">Prickly Pear Tonic</a></p>
                                     <span class="price">$33.00</span>
                                 </div>
                             </div>
@@ -465,12 +221,12 @@
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="portfolio-wrapper2 mb-30" data-sal="slide-up" data-sal-delay="1000" data-sal-duration="800">
-                            <a href="shop-details.html" class="image">
+                            <a href="#" class="image">
                                 <img class="img-fluid" src="assets/images/project/04.jpg" alt="Portfolio Img">
                             </a>
                             <div class="portfolio-content">
                                 <div class="content">
-                                    <p class="title"><a href="shop-details.html">Crispy Skin Chicken</a></p>
+                                    <p class="title"><a href="#">Crispy Skin Chicken</a></p>
                                     <span class="price">$33.00</span>
                                 </div>
                             </div>
@@ -478,7 +234,7 @@
                     </div>
                 </div>
                 <div class="button-area-banner" data-sal="slide-up" data-sal-delay="300" data-sal-duration="800">
-                    <a href="menu-list.html" class="rts-btn btn-secondary">More Dishes <i class="fa-light fa-arrow-right-long"></i></a>
+                    <a href="menu.php" class="rts-btn btn-secondary">More Dishes <i class="fa-light fa-arrow-right-long"></i></a>
                 </div>
             </div>
         </div>
@@ -755,7 +511,7 @@
                         <div class="swiper-slide">
                             <div class="team-wrapper">
                                 <div class="image">
-                                    <a href="meet-the-chef.html"><img src="assets/images/team/01.webp" alt="team"></a>
+                                    <a href="#"><img src="assets/images/team/01.webp" alt="team"></a>
                                     <ul class="social-area">
                                         <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
                                         <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
@@ -764,7 +520,7 @@
                                     </ul>
                                 </div>
                                 <div class="content">
-                                    <h3 class="team-name"><a href="meet-the-chef.html">Alice Capsey</a></h3>
+                                    <h3 class="team-name"><a href="#">Alice Capsey</a></h3>
                                     <p class="team-title">Manager</p>
                                 </div>
                             </div>
@@ -772,7 +528,7 @@
                         <div class="swiper-slide">
                             <div class="team-wrapper">
                                 <div class="image">
-                                    <a href="meet-the-chef.html"><img src="assets/images/team/02.webp" alt="team"></a>
+                                    <a href="#"><img src="assets/images/team/02.webp" alt="team"></a>
                                     <ul class="social-area">
                                         <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
                                         <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
@@ -781,7 +537,7 @@
                                     </ul>
                                 </div>
                                 <div class="content">
-                                    <h3 class="team-name"><a href="meet-the-chef.html">Danni Wyatt</a></h3>
+                                    <h3 class="team-name"><a href="#">Danni Wyatt</a></h3>
                                     <p class="team-title">Founder</p>
                                 </div>
                             </div>
@@ -789,7 +545,7 @@
                         <div class="swiper-slide">
                             <div class="team-wrapper">
                                 <div class="image">
-                                    <a href="meet-the-chef.html"><img src="assets/images/team/03.webp" alt="team"></a>
+                                    <a href="#"><img src="assets/images/team/03.webp" alt="team"></a>
                                     <ul class="social-area">
                                         <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
                                         <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
@@ -798,7 +554,7 @@
                                     </ul>
                                 </div>
                                 <div class="content">
-                                    <h3 class="team-name"><a href="meet-the-chef.html">Joe Root</a></h3>
+                                    <h3 class="team-name"><a href="#">Joe Root</a></h3>
                                     <p class="team-title">Finance Manager</p>
                                 </div>
                             </div>
@@ -806,7 +562,7 @@
                         <div class="swiper-slide">
                             <div class="team-wrapper">
                                 <div class="image">
-                                    <a href="meet-the-chef.html"><img src="assets/images/team/04.webp" alt="team"></a>
+                                    <a href="#"><img src="assets/images/team/04.webp" alt="team"></a>
                                     <ul class="social-area">
                                         <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
                                         <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
@@ -815,7 +571,7 @@
                                     </ul>
                                 </div>
                                 <div class="content">
-                                    <h3 class="team-name"><a href="meet-the-chef.html">Herry Brook</a></h3>
+                                    <h3 class="team-name"><a href="#">Herry Brook</a></h3>
                                     <p class="team-title">Cook</p>
                                 </div>
                             </div>
@@ -835,7 +591,7 @@
                     <span class="first-title">Book Your Table Today.</span>
                     <span class="second-title"> Book Now!</span>
                 </h2>
-                <a href="reservation.html" class="rts-btn btn-primary"><i class="fa-solid fa-table"></i>BOOK A TABLE</a>
+                <a href="#" class="rts-btn btn-primary"><i class="fa-solid fa-table"></i>BOOK A TABLE</a>
             </div>
         </div>
     </div>
@@ -872,7 +628,7 @@
                             </div>
                             <div class="content">
                                 <p class="tag"><a href="#">Fast Food</a></p>
-                                <h3 class="title"><a href="blog-details.html">Love and food: It is all about dinenos restaurant</a></h3>
+                                <h3 class="title"><a href="#">Love and food: It is all about dinenos restaurant</a></h3>
                             </div>
                         </div>
                     </div>
@@ -887,7 +643,7 @@
                             </div>
                             <div class="content">
                                 <p class="tag"><a href="#">Dinner</a></p>
-                                <h3 class="title"><a href="blog-details.html">Enjoy an exceptional journey of taste of joy.</a></h3>
+                                <h3 class="title"><a href="#">Enjoy an exceptional journey of taste of joy.</a></h3>
                             </div>
                         </div>
                     </div>
@@ -902,7 +658,7 @@
                             </div>
                             <div class="content">
                                 <p class="tag"><a href="#">Restaurant</a></p>
-                                <h3 class="title"><a href="blog-details.html">The opportunity to work abroad is a prospect, one</a></h3>
+                                <h3 class="title"><a href="#">The opportunity to work abroad is a prospect, one</a></h3>
                             </div>
                         </div>
                     </div>
@@ -914,113 +670,7 @@
 
     <!-- rts footer area start -->
     <!-- rts footer area start -->
-    <div class="rts-footer-one rts-footer-three">
-        <div class="footer-top">
-            <div class="container">
-                <div class="single-footer-wized-one" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
-                    <a href="index.html" class="logo">
-                        <img src="assets/images/logo/01.svg" alt="logo">
-                    </a>
-                    <div class="query-list">
-                        <span class="sub-text">Book a table</span>
-                        <a href="tel:88899900011">
-                            <span class="text-heading">888 999 000 11</span>
-                        </a>
-                    </div>
-                    <div class="query-list">
-                        <span class="sub-text">Opening Hours</span>
-                        <span class="text-heading">08:00 AM - 12:00 PM</span>
-                    </div>
-                    <div class="rts-social-wrapper">
-                        <ul>
-                            <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa-brands fa-behance"></i></a></li>
-                            <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
-                            <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- main footer area start -->
-                    <div class="main-footer-wrapper-one">
-                        <div class="shape-1"><img src="assets/images/footer/victor-14.webp" alt="shape"></div>
-                        <div class="shape-2"><img src="assets/images/footer/victor-15.webp" alt="shape"></div>
-                        <div class="single-footer-wized-one get-in-touch" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
-                            <div class="footer-header-two get-touch">
-                                <h6 class="title">Get In Touch</h6>
-                                <div class="get-touch">
-                                    <ul>
-                                        <li><i class="fa-solid fa-location-dot"></i>Silk St, Barbican, London E2Y, UK</li>
-                                        <li><a href="tel:39055123456"><i class="fa-solid fa-phone-flip"></i>+39-055-123456</a></li>
-                                        <li><a href="mailto:booking@webexample.com"><i class="fa-solid fa-envelope-open"></i>booking@webexample.com</a></li>
-                                    </ul>
-                                </div>
-                                <a href="#" class="direction-btn">Get Direction <i class="fa-sharp fa-light fa-arrow-right"></i></a>
-                            </div>
-                        </div>
-                        <div class="single-footer-wized-one pages" data-sal="slide-up" data-sal-delay="250" data-sal-duration="800">
-                            <div class="footer-header-two pages">
-                                <h6 class="title">Pages</h6>
-                                <div class="pages">
-                                    <ul>
-                                        <li><a href="about.html"> About Us</a></li>
-                                        <li><a href="menu-list.html"> Our Menu</a></li>
-                                        <li><a href="our-chef.html">Our Chef</a></li>
-                                        <li><a href="reservation.html"> Reservation</a></li>
-                                        <li><a href="contact.html"> Contact Us</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="single-footer-wized-one pages" data-sal="slide-up" data-sal-delay="250" data-sal-duration="800">
-                            <div class="footer-header-two pages">
-                                <h6 class="title">Featured Menu</h6>
-                                <div class="pages">
-                                    <ul>
-                                        <li><a href="about.html"><i class="fa-sharp fa-light fa-arrow-right"></i> About Us</a></li>
-                                        <li><a href="menu-list.html"><i class="fa-sharp fa-light fa-arrow-right"></i> Our Menu</a></li>
-                                        <li><a href="pricing-plan.html"><i class="fa-sharp fa-light fa-arrow-right"></i> Pricing Plans</a></li>
-                                        <li><a href="working-process.html"><i class="fa-sharp fa-light fa-arrow-right"></i> How It Works</a></li>
-                                        <li><a href="contact.html"><i class="fa-sharp fa-light fa-arrow-right"></i> Contact Us</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="single-footer-wized-one gallery" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
-                            <div class="gallery-item"><img src="assets/images/gallery/sm-01.jpg" alt=""></div>
-                            <div class="gallery-item"><img src="assets/images/gallery/sm-02.jpg" alt=""></div>
-                            <div class="gallery-item"><img src="assets/images/gallery/sm-03.jpg" alt=""></div>
-                            <div class="gallery-item"><img src="assets/images/gallery/sm-04.jpg" alt=""></div>
-                            <div class="gallery-item"><img src="assets/images/gallery/sm-05.jpg" alt=""></div>
-                            <div class="gallery-item"><img src="assets/images/gallery/sm-06.jpg" alt=""></div>
-                        </div>
-                    </div>
-                    <!-- main footer area end -->
-                </div>
-            </div>
-        </div>
-
-        <!-- copy right area start -->
-        <div class="copyright-area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="copyright-footer-one">
-                            <p class="disc">
-                                Copyright @2023 Dinenos by <a href="https://themeforest.net/user/reacthemes/portfolio">ReacThemes</a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- copyright area end -->
-    </div>
+    <?php include ('include/footer.php');?>
     <!-- rts footer area end -->
     <!-- rts footer area end -->
 
@@ -1113,5 +763,5 @@
 </body>
 
 
-<!-- Mirrored from themewant.com/products/html/dinenos/index-three.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 23 Jan 2024 11:07:33 GMT -->
+<!-- Mirrored from themewant.com/products/html/dinenos/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 23 Jan 2024 11:07:33 GMT -->
 </html>
